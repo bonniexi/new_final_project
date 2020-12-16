@@ -21,7 +21,7 @@ for key, value in library_url_dict.items():
                               'intro': library_info.intro, 
                               'nearby_restaurants': final_project_code.get_nearby_restaurants(library_info)['businesses']
                               }
-    print(library_info_dict[key])
+    # print(library_info_dict[key])
 
 # Part 2: Create databse with two tables
 

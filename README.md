@@ -12,8 +12,8 @@ time
 ## Usage
 
 This project contains two code files to run:  
-final_project_code.py 
-database_code.py
+final_project_code.py for implement the project and interacting
+database_code.py for creating whole database
 
 ### Get YELP! API Key
 
